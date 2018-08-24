@@ -1,0 +1,9 @@
+D:\Source\Barclays\DeveloperTestExercise-master\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll
+D:\Source\Barclays\DeveloperTestExercise-master\ThirdPartyTools\bin\Debug\ThirdPartyTools.pdb
+D:\Source\Barclays\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.csprojResolveAssemblyReference.cache
+D:\Source\Barclays\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.dll
+D:\Source\Barclays\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.pdb
+D:\Scratch\tmp\ex\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll
+D:\Scratch\tmp\ex\ThirdPartyTools\bin\Debug\ThirdPartyTools.pdb
+D:\Scratch\tmp\ex\ThirdPartyTools\obj\Debug\ThirdPartyTools.dll
+D:\Scratch\tmp\ex\ThirdPartyTools\obj\Debug\ThirdPartyTools.pdb

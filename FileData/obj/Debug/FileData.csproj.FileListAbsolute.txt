@@ -1,0 +1,17 @@
+D:\Source\Barclays\DeveloperTestExercise-master\FileData\bin\Debug\FileData.exe.config
+D:\Source\Barclays\DeveloperTestExercise-master\FileData\bin\Debug\FileData.exe
+D:\Source\Barclays\DeveloperTestExercise-master\FileData\bin\Debug\FileData.pdb
+D:\Source\Barclays\DeveloperTestExercise-master\FileData\bin\Debug\ThirdPartyTools.dll
+D:\Source\Barclays\DeveloperTestExercise-master\FileData\bin\Debug\ThirdPartyTools.pdb
+D:\Source\Barclays\DeveloperTestExercise-master\FileData\obj\Debug\FileData.csprojResolveAssemblyReference.cache
+D:\Source\Barclays\DeveloperTestExercise-master\FileData\obj\Debug\FileData.exe
+D:\Source\Barclays\DeveloperTestExercise-master\FileData\obj\Debug\FileData.pdb
+D:\Scratch\tmp\ex\FileData\bin\Debug\FileData.exe.config
+D:\Scratch\tmp\ex\FileData\obj\Debug\FileData.exe
+D:\Scratch\tmp\ex\FileData\obj\Debug\FileData.pdb
+D:\Scratch\tmp\ex\FileData\bin\Debug\FileData.exe
+D:\Scratch\tmp\ex\FileData\bin\Debug\FileData.pdb
+D:\Scratch\tmp\ex\FileData\bin\Debug\ThirdPartyTools.dll
+D:\Scratch\tmp\ex\FileData\bin\Debug\ThirdPartyTools.pdb
+D:\Scratch\tmp\ex\FileData\obj\Debug\FileData.csprojResolveAssemblyReference.cache
+D:\Scratch\tmp\NeilRosser\FileData\bin\Debug\FileData.exe.config
